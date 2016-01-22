@@ -1,0 +1,41 @@
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  font-size: 0.5em;
+
+}
+
+.reveal .footer img#logo{
+  width: 100%;
+  max-width: 90px;
+}
+
+.reveal section img{border:0px; }
+.reveal section img.left
+{border:0px; display: inline-block;width: 50%;float:left;border-radius: 50%;
+  margin-right: 30px;
+}
+.reveal section img.right
+{border:0px; display: inline-block;width: 50%;float:right;border-radius: 50%;
+  margin-right: 30px;
+}
+
+
+.reveal section p.margintop{
+  padding-top: 45px;
+}
+
+.reveal section p.left,
+.reveal section li.left
+{
+  text-align: left;
+
+}
+
+.reveal section p.right,
+.reveal section li.right
+{
+  text-align: right;
+
+}
